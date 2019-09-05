@@ -1,0 +1,14 @@
+# UniGe Machine Learning 2018-19
+Hello there!
+
+This project covers the aspect of analysing poker hands, and classifying them as per their specific order. An accuracy comparison is made between multiple classification algorithms for the problem at hand.
+
+<b>The dataset used is from the UCI repository</b>: https://archive.ics.uci.edu/ml/datasets/Poker+Hand
+
+The files with the code have been split into 4 different files for observing discreet results with the various datasets and the respective algorithms being applied. We can always merge them into one, but the agenda of this project is to clearly observe the behavior of algorithms on different datasets.
+
+In order to execute, and observe the outcome, you have to do the following:
+
+1. Download all the files into one folder
+2. Execute the files Dataset1.py, Dataset2.py, Dataset3.py, and MLP.py
+3. The above files have been programmed to pick up the requisite datasets in their command line to provide us with the desired outcome
